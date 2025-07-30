@@ -1,0 +1,9 @@
+app: 
+  name: blue-green-app
+  color: blue 
+  image:
+    repository: anarkatomica1996/blue-green-app
+    tag: latest
+  port: 3000
+
+replicaCount: 2
